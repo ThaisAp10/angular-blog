@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+    .container__menu-bar {
+      flex-direction: column;
+    }
+  
+    .container__menu-bar > ul {
+      flex-direction: column;
+    }
+  
+    .container__menu-bar > li {
+      margin: 10px 0;
+    }
+  }
